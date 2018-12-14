@@ -8,6 +8,6 @@ The workflow of the app is given below:
 ![alt text](https://github.com/HugoLangeveld/Restaurant/blob/master/Schermafbeelding%202018-12-14%20om%2010.33.51.png)
 ![alt text](https://github.com/HugoLangeveld/Restaurant/blob/master/Schermafbeelding%202018-12-14%20om%2010.33.59.png)
 ![alt text](https://github.com/HugoLangeveld/Restaurant/blob/master/Schermafbeelding%202018-12-14%20om%2010.34.08.png)
-![alt text]()
+![alt text](https://github.com/HugoLangeveld/Restaurant/blob/master/Schermafbeelding%202018-12-14%20om%2010.34.16.png)
 ![alt text]()
 ![alt text]()
